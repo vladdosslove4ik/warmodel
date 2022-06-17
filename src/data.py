@@ -11,6 +11,7 @@ DATAFILE = "../data.csv"
 
 EARLIEST_PREDICT_DAY = 10
 PERCENTAGE_OF_TESTS = 20
+
 NUM_OF_COLUMNS = 12
 COLUMNS = ["troops", "troops with wounded", "tanks", "military vehicle", "artillery", "MLRS", "AA", "planes",
            "helicopters", "autos", "boats", "drones"]
